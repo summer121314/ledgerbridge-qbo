@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ledgerbridge-qbo.vercel.app/sitemap.xml
